@@ -1,0 +1,36 @@
+
+NOM du joueur         Score      temps    deplacement        
+       
+
+imed eddin            540         0:10        10        
+
+imed                  539         0:11        10        
+
+imed eddin            531         0:19        10        
+
+imed eddin            472         0:48        20        
+
+imzs                  465         0:35        23        
+
+imed                  540         0:10        10        
+
+imed edin             540         0:10        10        
+
+imed                  541         0:9        10        
+
+imed                  541         0:9        10        
+
+imed                  540         0:10        10        
+
+imed                  542         0:8        10        
+
+imed                  542         0:8        10        
+
+im                    534         0:16        10        
+
+barhoum               539         0:11        10        
+
+mahmoud               538         0:12        10        
+
+mahmoud               455         0:45        30        
+
